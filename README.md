@@ -28,7 +28,7 @@ El tutorial está disponible en **3 formatos**:
 
 ## 🚀 Ver Tutorial Online
 
-👉 **[Ver Tutorial Aquí](https://TU-USUARIO.github.io/calabaza-halloween-scratch/)**
+👉 **[Ver Tutorial Aquí](https://eloisaglez.github.io/calabaza-halloween-scratch/)**
 
 *(Reemplaza TU-USUARIO con tu nombre de usuario de GitHub)*
 
