@@ -30,8 +30,6 @@ El tutorial está disponible en **3 formatos**:
 
 👉 **[Ver Tutorial Aquí](https://eloisaglez.github.io/calabaza-halloween-scratch/)**
 
-*(Reemplaza TU-USUARIO con tu nombre de usuario de GitHub)*
-
 ## 📥 Descargar Archivos
 
 Puedes descargar los archivos del tutorial en diferentes formatos:
