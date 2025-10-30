@@ -22,7 +22,7 @@ El tutorial está disponible en **3 formatos**:
 - 📢 **Mensajes (Broadcasts)** - Comunicación entre sprites
 - 🎭 **Disfraces** - Cambiar apariencia de objetos
 - 🖱️ **Eventos** - Responder a clics del usuario
-- 📦 **Clonación** - Crear copias de objetos
+- 🖌️ **Herramienta de pintura** - Crear tus propios Sprites
 - 🎨 **Galería de Sprites** - Usar recursos de Scratch
 - 👆 **Arrastre de objetos** - Sprites arrastrables
 
