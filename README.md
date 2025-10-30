@@ -122,4 +122,4 @@ Si tienes preguntas o sugerencias, abre un issue en este repositorio.
 
 ---
 
-**Hecho con ❤️ para la comunidad educativa de Scratch**
+**Hecho con ❤️ para la comunidad educativa de Scratch con la ayuda de la IA**
